@@ -1,3 +1,3 @@
 :)
 
-[Link] (https://drewgovork.github.io/resume/)
+[Link](https://drewgovork.github.io/resume/)
